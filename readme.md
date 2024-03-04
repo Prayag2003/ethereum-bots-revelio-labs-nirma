@@ -4,6 +4,8 @@
 ## Team Name: Ethereum Bots<br>
 ### Team Members: Prayag Bhatt , Denil Bhatt , Aum Pandya , Aniket Suthar , Bhavya Thumar
 
+![image](https://github.com/Prayag2003/ethereum-bots-revelio-labs-nirma/assets/94465961/77ce6f4b-1c47-4b07-b04d-d509ae645062)
+
 <hr>
 
 ## Proposed Approach
